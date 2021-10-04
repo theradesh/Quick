@@ -27,7 +27,7 @@ namespace Quick
                 break;
             }
 
-            if (ouputNoInt) //check int, can only use if (output.Length == 0) 
+            if (ouputNoInt) //check int, can use (output.Length == 0) 
                 Console.WriteLine($"The output doesn't have any integer.");
             else
                 Console.WriteLine($"The output should be {output} in integer.");
