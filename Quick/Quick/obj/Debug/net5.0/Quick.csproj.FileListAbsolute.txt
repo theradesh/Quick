@@ -1,0 +1,16 @@
+D:\Exam\Quick\Quick\Quick\Quick\bin\Debug\net5.0\Quick.exe
+D:\Exam\Quick\Quick\Quick\Quick\bin\Debug\net5.0\Quick.deps.json
+D:\Exam\Quick\Quick\Quick\Quick\bin\Debug\net5.0\Quick.runtimeconfig.json
+D:\Exam\Quick\Quick\Quick\Quick\bin\Debug\net5.0\Quick.runtimeconfig.dev.json
+D:\Exam\Quick\Quick\Quick\Quick\bin\Debug\net5.0\Quick.dll
+D:\Exam\Quick\Quick\Quick\Quick\bin\Debug\net5.0\ref\Quick.dll
+D:\Exam\Quick\Quick\Quick\Quick\bin\Debug\net5.0\Quick.pdb
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\Quick.csprojAssemblyReference.cache
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\Quick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\Quick.AssemblyInfoInputs.cache
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\Quick.AssemblyInfo.cs
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\Quick.csproj.CoreCompileInputs.cache
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\Quick.dll
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\ref\Quick.dll
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\Quick.pdb
+D:\Exam\Quick\Quick\Quick\Quick\obj\Debug\net5.0\Quick.genruntimeconfig.cache
