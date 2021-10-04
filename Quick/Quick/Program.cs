@@ -12,7 +12,7 @@ namespace Quick
             Console.WriteLine($"Given input is \"{input}\"");
 
             string output = string.Empty;
-            foreach (char char_ in input)
+            foreach (char char_ in input) //function for check characters in input(string)
             {
                 if (char_ >= '0' && char_ <= '9')
                 {
@@ -21,13 +21,13 @@ namespace Quick
             }
 
             bool ouputNoInt = true;
-            foreach (char char_ in output)
+            foreach (char char_ in output) //function for check int, not need if can use "output.Length" 
             {
                 ouputNoInt = false;
                 break;
             }
 
-            if (ouputNoInt)
+            if (ouputNoInt) //check int, can only use if (output.Length == 0) 
                 Console.WriteLine($"The output doesn't have any integer.");
             else
                 Console.WriteLine($"The output should be {output} in integer.");
